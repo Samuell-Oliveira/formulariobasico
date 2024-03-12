@@ -83,6 +83,9 @@ fieldset.grupo .campo{
     text-shadow: none;
 }
 
-#check {
+#check input[type="checkbox"],
+#check label {
     display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px; /* Ajuste o espaçamento entre os checkboxes e os rótulos conforme desejado */
 }
