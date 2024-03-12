@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 #titulo{
@@ -29,7 +28,6 @@ body{
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
-    padding: 2% 2%;
 }
 
 input, select, textarea, button{
